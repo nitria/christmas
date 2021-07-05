@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: friends;
-  src: url("friends.ttf");
+  src: url("./friends.TTF");
 }
 
 * {
